@@ -9,3 +9,8 @@ The contest was part of the course evaluation for the course Data Analytics Labo
 
 - [Code](ME21B078_Final_Model.ipynb)
 - [Report](ME21B078.pdf)
+
+# Contributors
+
+- J Jayagowtham, IIT Madras
+- Chaitanya V, IIT Madras
